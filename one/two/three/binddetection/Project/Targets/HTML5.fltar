@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="MadCap HTML5 Target"
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  MasterPage="/Content/Resources/MasterPages/KB_Master_Page.flmsp"
+  MasterPage="/Content/Products/Resources/MasterPages/KB_Master_Page.flmsp"
   Skin="/Project/Skins/HTML5 - TriPane.flskn"
-  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  MasterStylesheet="/Content/Products/Resources/Stylesheets/Styles.css"
   MasterStylesheetOverride="True"
   EnableFeedbackService="false"
   LiveHelpServer=""
