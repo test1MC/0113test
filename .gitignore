@@ -4,21 +4,21 @@
 # files you push to your repository, the more your performance may be affected. #
 #################################################################################
 
-one/two/three/central/Output
-one/two/three/central/Analyzer
-one/two/three/central/FileSync
-one/two/three/central/Project/Users
-one/two/three/central/.gitignore
-one/two/three/central/.svn
-**/Thumbs.db
-
-#################################################################################
-# Add items to be ignored below                                                 #
-#################################################################################
-
 one/two/three/binddetection/Output
 one/two/three/binddetection/Analyzer
 one/two/three/binddetection/FileSync
 one/two/three/binddetection/Project/Users
 one/two/three/binddetection/.gitignore
 one/two/three/binddetection/.svn
+**/Thumbs.db
+
+#################################################################################
+# Add items to be ignored below                                                 #
+#################################################################################
+
+one/two/three/central/Output
+one/two/three/central/Analyzer
+one/two/three/central/FileSync
+one/two/three/central/Project/Users
+one/two/three/central/.gitignore
+one/two/three/central/.svn
